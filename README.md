@@ -6,4 +6,4 @@ This plugin will shutdown your Plex Server.
 
 ## Nvidia Shield TV
 
-![alt tag](Screenshots\Nvidia Shield TV 1.png)
+![Nvidia Shield TV 1](https://github.com/StancuFlorin/PlexServerCommands.bundle/blob/master/Screenshots/Nvidia%20Shield%20TV%201.png)
