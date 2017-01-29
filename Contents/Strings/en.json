@@ -1,19 +1,17 @@
 {
-    "Title": "Plex Server Commands",
-    "ApplicationsTitle": "Plex Server Commands",
+	"Title": "Plex Server Commands",
+	"ApplicationsTitle": "Plex Server Commands",
 
-    "MenuShutdown": "Shutdown Server",
-    "MenuReboot": "Reboot Server",
-    "MenuHibernate": "Hibernate Server",
-    "MenuSuspend": "Suspend Server",
-    "MenuTest": "Test",
+	"MenuShutdown": "Shutdown Server",
+	"MenuReboot": "Reboot Server",
+	"MenuHibernate": "Hibernate Server",
+	"MenuSuspend": "Suspend Server",
 
 	"MenuYes": "Yes",
 	"MenuNo": "No",
-	
-    "LogShutdown": "Computer is shutting down",
-    "LogReboot": "Computer is going to reboot",
-    "LogHibernate": "Computer is hibernating",
-    "LogSuspend": "Computer is suspending",
-	"LogTest": "Is working!"
+
+	"LogShutdown": "Computer is shutting down",
+	"LogReboot": "Computer is going to reboot",
+	"LogHibernate": "Computer is hibernating",
+	"LogSuspend": "Computer is suspending"
 }
