@@ -12,6 +12,4 @@ This plugin will shutdown your Plex Server.
 
 ## Nexus 5X
 
-![Nexus 5X 1](https://github.com/StancuFlorin/PlexServerCommands.bundle/blob/master/Screenshots/Nexus%205X%201.png)
-![Nexus 5X 2](https://github.com/StancuFlorin/PlexServerCommands.bundle/blob/master/Screenshots/Nexus%205X%202.png)
-![Nexus 5X 3](https://github.com/StancuFlorin/PlexServerCommands.bundle/blob/master/Screenshots/Nexus%205X%203.png)
+![Nexus 5X](https://github.com/StancuFlorin/PlexServerCommands.bundle/blob/master/Screenshots/Nexus%205X.png)
