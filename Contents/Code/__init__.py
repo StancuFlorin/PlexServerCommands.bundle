@@ -1,15 +1,12 @@
 import commands
 import platform
 import os
-
 import server_commands
 
 OS = platform.system()
-
 APPLICATIONS_PREFIX = "/applications/plexservercommands"
 
 NAME = L('Title')
-
 ART  = 'art-default.jpg'
 ICON = 'icon-default.png'
 	
@@ -18,8 +15,8 @@ ICON = 'icon-default.png'
 def Start():
     Plugin.AddPrefixHandler(APPLICATIONS_PREFIX, ApplicationsMainMenu, NAME, ICON, ART)
 
-    Plugin.AddViewGroup("InfoList", viewMode="InfoList", mediaType="items")
-    Plugin.AddViewGroup("List", viewMode="List", mediaType="items")
+    Plugin.AddViewGroup("InfoList", viewMode = "InfoList", mediaType = "items")
+    Plugin.AddViewGroup("List", viewMode = "List", mediaType = "items")
 
 def ApplicationsMainMenu():
 	oc = ObjectContainer(title1 = NAME)
