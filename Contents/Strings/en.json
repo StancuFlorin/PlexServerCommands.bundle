@@ -1,0 +1,19 @@
+{
+    "Title": "Plex Server Commands",
+    "ApplicationsTitle": "Plex Server Commands",
+
+    "MenuShutdown": "Shutdown Server",
+    "MenuReboot": "Reboot Server",
+    "MenuHibernate": "Hibernate Server",
+    "MenuSuspend": "Suspend Server",
+    "MenuTest": "Test",
+
+	"MenuYes": "Yes",
+	"MenuNo": "No",
+	
+    "LogShutdown": "Computer is shutting down",
+    "LogReboot": "Computer is going to reboot",
+    "LogHibernate": "Computer is hibernating",
+    "LogSuspend": "Computer is suspending",
+	"LogTest": "Is working!"
+}
