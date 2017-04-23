@@ -1,10 +1,10 @@
 import commands
 import platform
 import os
-import server_commands
+import power_plex_server
 
 OS = platform.system()
-APPLICATIONS_PREFIX = "/applications/plexservercommands"
+APPLICATIONS_PREFIX = "/applications/powerplexserver"
 
 NAME = L('Title')
 ART  = 'art-default.jpg'
@@ -43,7 +43,7 @@ def YesOrNo(function, title):
 
 	oc.add(
 		DirectoryObject(
-			key = Callback(getattr(server_commands, function)),
+			key = Callback(getattr(power_plex_server, function)),
 			title = L('MenuYes'),
 			thumb = R('icon-yes.png'),
 			art = R(ART)

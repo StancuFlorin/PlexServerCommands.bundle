@@ -4,7 +4,7 @@
 		<key>CFBundleExecutable</key>
 		<string></string>
 		<key>CFBundleIdentifier</key>
-		<string>com.plexapp.plugins.commands</string>
+		<string>ro.ytech.powerplexserver</string>
 		<key>PlexClientPlatforms</key>
 		<string>*</string>
 		<key>PlexFrameworkVersion</key>

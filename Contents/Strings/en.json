@@ -1,6 +1,6 @@
 {
-	"Title": "Plex Server Commands",
-	"ApplicationsTitle": "Plex Server Commands",
+	"Title": "Power Plex Server",
+	"ApplicationsTitle": "Power Plex Server",
 
 	"MenuShutdown": "Shutdown Server",
 	"MenuReboot": "Reboot Server",
@@ -10,8 +10,8 @@
 	"MenuYes": "Yes",
 	"MenuNo": "No",
 
-	"LogShutdown": "Computer is shutting down",
-	"LogReboot": "Computer is going to reboot",
-	"LogHibernate": "Computer is hibernating",
-	"LogSuspend": "Computer is suspending"
+	"LogShutdown": "The Plex Server is shutting down.",
+	"LogReboot": "The Plex Server is going to reboot.",
+	"LogHibernate": "The Plex Server is hibernating.",
+	"LogSuspend": "The Plex Server is suspending."
 }

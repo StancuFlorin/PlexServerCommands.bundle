@@ -1,4 +1,4 @@
-# PlexServerCommands.bundle
+# PowerPlexServer.bundle
 
 This plugin will shutdown your Plex Server. 
 
