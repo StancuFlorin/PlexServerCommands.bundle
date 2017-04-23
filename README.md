@@ -1,6 +1,6 @@
 # PowerPlexServer.bundle
 
-This plugin will shutdown your Plex Server. 
+This plugin will power off your Plex Server. Now you can easily shutdown your Plex Server from your bed.
 
 # Screenshots
 
