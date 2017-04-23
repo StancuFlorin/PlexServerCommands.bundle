@@ -1,7 +1,7 @@
 import commands
 import platform
 import os
-import power_plex_server
+import power_off_plex_server
 
 OS = platform.system()
 APPLICATIONS_PREFIX = "/applications/powerplexserver"
@@ -43,7 +43,7 @@ def YesOrNo(function, title):
 
 	oc.add(
 		DirectoryObject(
-			key = Callback(getattr(power_plex_server, function)),
+			key = Callback(getattr(power_off_plex_server, function)),
 			title = L('MenuYes'),
 			thumb = R('icon-yes.png'),
 			art = R(ART)

@@ -1,6 +1,6 @@
 {
-	"Title": "Power Plex Server",
-	"ApplicationsTitle": "Power Plex Server",
+	"Title": "Power Off Plex Server",
+	"ApplicationsTitle": "Power Off Plex Server",
 
 	"MenuShutdown": "Shutdown Server",
 	"MenuReboot": "Reboot Server",
